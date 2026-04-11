@@ -34,3 +34,8 @@ Since I built the architecture from the ground up, I spent a lot of time studyin
 * `model.py`: The core math and architecture (Blocks, Attention, FFN, and the main GPT class).
 * `train.py`: Downloads the data, sets up the tokenizer, runs the training loop and saves the trained `.pt` weights.
 * `generate.py`: Loads the trained `.pt` dictionary into an empty model chassis to auto-generate new Shakespeare text.
+
+# Sample Output
+These are the screen shots of the output from task 1 
+<img width="305" height="81" alt="Screenshot 2026-04-11 201619" src="https://github.com/user-attachments/assets/49e85d03-5b42-4d03-a17e-79b0651e9027" />
+<img width="602" height="696" alt="Screenshot 2026-04-11 201638" src="https://github.com/user-attachments/assets/ddb22a88-dd1d-4cd2-b7af-84047e116f71" />
